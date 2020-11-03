@@ -2,7 +2,7 @@
   "parameters": {
     "serverName": "pgtestsvc4",
     "resourceGroupName": "TestGroup",
-    "api-version": "2020-02-14-privatepreview",
+    "api-version": "2020-10-05-privatepreview",
     "subscriptionId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
     "parameters": {
       "location": "westus",

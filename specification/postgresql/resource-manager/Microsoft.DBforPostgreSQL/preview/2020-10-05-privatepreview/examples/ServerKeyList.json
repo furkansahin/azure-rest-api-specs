@@ -3,7 +3,7 @@
     "subscriptionId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
     "resourceGroupName": "testrg",
     "serverName": "testserver",
-    "api-version": "2020-02-14-privatepreview"
+    "api-version": "2020-10-05-privatepreview"
   },
   "responses": {
     "200": {
